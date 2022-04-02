@@ -11,3 +11,6 @@ On relit les références données dans notre carnet de bord pour voir si des é
 
 ## Semaine 3
 On fait des recherches plus poussées sur la publicité et ses effets sur la consommation de tabac ou de tout autre produit pour pouvoir ensuite le retransposer. On a un début de code tout simple sur la représentation de la population, mais on n'a pas encore implémenter les codes pour tous les paramètres. On va d'abord finir de compléter les informations qui nous manque et ensuite on pourra continuer la partie codage.   
+
+## Semaine 4
+On commence à implémenter la fonction qui définit une personne d'abord avec les données que l'on a récoltées puis dès que c'est terminé, on passe à la fonction qui réprésente la population entière en se servant de la fonction définie juste avant.  
