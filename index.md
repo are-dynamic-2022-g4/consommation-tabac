@@ -14,3 +14,8 @@ On fait des recherches plus poussées sur la publicité et ses effets sur la con
 
 ## Semaine 4
 On commence à implémenter la fonction qui définit une personne d'abord avec les données que l'on a récoltées puis dès que c'est terminé, on passe à la fonction qui réprésente la population entière en se servant de la fonction définie juste avant.  
+
+
+## Semaine 5
+On ajoute plus d'éléments qui feront varier le statut tabagique d'une personne au sein d'une population. 
+On a retravaillé le code sur les différents paramètres que nous avions établi pour notre simulation tels que la prise spontanée, la reprise ou rechute, le nombre de fois où la personne tente d'arrêter, la diffusion de la pub et celle des luttes anti-tabac qui varient selon les caractéristiques propres d'une personne. 
