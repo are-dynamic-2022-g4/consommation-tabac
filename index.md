@@ -21,13 +21,13 @@ exemple d'une population de 1000 personnes caractérisées par leur **age, sexe,
 
 Nous allons suivre l'évolution de la consommation de tabac de cette population impacter par leur intéraction avec leur proche, la lutte anti-tabac et et la pub pro tabac
 
-###1ère Simulation: absence de pub
+### 1ère Simulation: absence de pub
 
-###2ème Simulation: pub affectant uniquement les +30 ans
+### 2ème Simulation: pub affectant uniquement les +30 ans
 
-###3ème Simulation: Pub affectant uniquement les -30 ans
+### 3ème Simulation: Pub affectant uniquement les -30 ans
 
 
-### Lien vers page de blog :  https://github.com/are-dynamic-2022-g4/consommation-tabac/blob/gh-pages/blog.md
+### Lien vers page de blog :  <a href="https://github.com/are-dynamic-2022-g4/consommation-tabac/blob/gh-pages/blog.md">
 
 
