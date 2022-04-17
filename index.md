@@ -18,7 +18,7 @@ Notre sujet de recherche documentaire porte sur le tabagisme et sa consommation 
 ### Création d'une population
 
 exemple d'une population de 1000 personnes caractérisées par leur **age, sexe, catégorie professionnel, état de santé** généré aléatoirement suivant les proportions en France en 2022
-<h1 align="center"> ![pop_init](https://user-images.githubusercontent.com/96307633/163717059-976636f5-a0a6-4c81-b271-fb7d017a3a4e.png) </h1>
+![pop_init](https://user-images.githubusercontent.com/96307633/163717059-976636f5-a0a6-4c81-b271-fb7d017a3a4e.png)
 
 
 
