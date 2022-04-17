@@ -13,14 +13,19 @@ Notre sujet de recherche documentaire porte sur le tabagisme et sa consommation 
 **Critère(s) d'évaluation :** Pourcentage de fumeur dans la population
 
 
-## Présentation structurée des résultats
-
 ### Création d'une population
 
 exemple d'une population de 1000 personnes caractérisées par leur **age, sexe, catégorie professionnel, état de santé** généré aléatoirement suivant les proportions en France en 2022
 
 ![pop_init](https://user-images.githubusercontent.com/96307633/163717059-976636f5-a0a6-4c81-b271-fb7d017a3a4e.png)
 
+Nous allons suivre l'évolution de la consommation de tabac de cette population impacter par leur intéraction avec leur proche, la lutte anti-tabac et et la pub pro tabac
+
+###1ère Simulation: absence de pub
+
+###2ème Simulation: pub affectant uniquement les +30 ans
+
+###3ème Simulation: Pub affectant uniquement les -30 ans
 
 
 ### Lien vers page de blog : 
