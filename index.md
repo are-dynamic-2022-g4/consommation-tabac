@@ -17,7 +17,7 @@ Notre sujet de recherche documentaire porte sur le tabagisme et sa consommation 
 
 exemple d'une population de 1000 personnes caractérisées par leur **age, sexe, catégorie professionnel, état de santé** généré aléatoirement suivant les proportions en France en 2022
 
-![pop_init](https://user-images.githubusercontent.com/96307633/163717059-976636f5-a0a6-4c81-b271-fb7d017a3a4e.png)
+![image](https://user-images.githubusercontent.com/96307633/163718816-50fa4b67-a2c3-4514-b322-81b7f3ec04bc.png)
 
 Nous allons suivre l'évolution de la consommation de tabac de cette population impacter par leur intéraction avec leur proche, la lutte anti-tabac et et la pub pro tabac
 
