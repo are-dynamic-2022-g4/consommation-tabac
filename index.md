@@ -28,6 +28,6 @@ Nous allons suivre l'évolution de la consommation de tabac de cette population 
 ### 3ème Simulation: Pub affectant uniquement les -30 ans
 
 
-### Lien vers page de blog :  <a href="https://github.com/are-dynamic-2022-g4/consommation-tabac/blob/gh-pages/blog.md">
+### Lien vers page de blog :  <a href="https://github.com/are-dynamic-2022-g4/consommation-tabac/blob/gh-pages/blog.md"> C'est ici ! </a>
 
 
