@@ -19,3 +19,5 @@ On commence à implémenter la fonction qui définit une personne d'abord avec l
 ## Semaine 5
 On ajoute plus d'éléments qui feront varier le statut tabagique d'une personne au sein d'une population. 
 On a retravaillé le code sur les différents paramètres que nous avions établi pour notre simulation tels que la prise spontanée, la reprise ou rechute, le nombre de fois où la personne tente d'arrêter, la diffusion de la pub et celle des luttes anti-tabac qui varient selon les caractéristiques propres d'une personne. 
+
+## Semaine 6
