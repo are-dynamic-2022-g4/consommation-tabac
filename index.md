@@ -22,9 +22,11 @@ exemple d'une population de 1000 personnes caractérisées par leur **age, sexe,
 
 ![pop_init](https://user-images.githubusercontent.com/96307633/163717059-976636f5-a0a6-4c81-b271-fb7d017a3a4e.png)
 ```
+```markdown
+### 1ère Simulation
+```
 
 
-
-## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+### Lien vers page de blog : 
 
 
