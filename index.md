@@ -4,10 +4,10 @@
 
 Notre sujet de recherche documentaire porte sur le tabagisme et sa consommation en France parmi les jeunes adultes et les adolescents nos jours. En effet, la cigarette est devenue un effet de mode très populaire et omniprésent sur nos écrans.  En outre, l'addiction de la nicotine pousse les consommateurs à en redemander. Pourtant, de nombreuses mesures ont été menées contre cette industrie pour faire diminuer la consommation de tabac. Malgré cela, le marché du tabac a su établir des stratégies pour contrer ceux qui veulent le faire tomber en ayant l'idée de cibler davantage les jeunes consommateurs. Il n’est pas aisé de faire tomber l’empire du tabac et leur économie repose sur les nouveautés qu’il propose en ciblant les jeunes consommateurs qui seront les plus à même de continuer à fumer sur une plus longue période.
 
-**Problématique :** 
+**Problématique :** Comment l’identité et les conditions d'une population (genre, âge, ...etc) peut prédire leur comportement sur la consommation de tabac ? 
 
 **Hypothèse:**
-
+En faisant varier nos différents paramètres qui sont ; le genre, l'âge, la catégorie socioprofessionnelle, la condition physique, le degré de dépendance, l'année. On pourra observer que les jeunes adultes (18-30 ans) correspondent à la catégorie de personnes les plus réceptives et les plus sensibles. Et donc ils sont plus susceptibles de fumer suite à leur exposition aux médias, aux publicités, à l'entourage  fumant.
 **Objectifs :**
 
 **Critère(s) d'évaluation :** Pourcentage de fumeur dans la population.
