@@ -24,7 +24,7 @@ Nous allons suivre l'évolution de la consommation de tabac de cette population,
 
 ### Simulations: 
 
-Comparaison de l'évolution du nomnbre de fumeur dans différentes conditions
+Comparaison de l'évolution du nombre de fumeurs dans différentes  conditions.
 
 
 ### Lien vers page du  <a href="https://github.com/are-dynamic-2022-g4/consommation-tabac/blob/gh-pages/blog.md"> blog </a>
