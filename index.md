@@ -8,6 +8,7 @@ Notre sujet de recherche documentaire porte sur le tabagisme et sa consommation 
 
 **Hypothèse:**
 En faisant varier nos différents paramètres qui sont ; le genre, l'âge, la catégorie socioprofessionnelle, la condition physique, le degré de dépendance, l'année. On pourra observer que les jeunes adultes (18-30 ans) correspondent à la catégorie de personnes les plus réceptives et les plus sensibles. Et donc ils sont plus susceptibles de fumer suite à leur exposition aux médias, aux publicités, à l'entourage  fumant.
+
 **Objectifs :**
 
 **Critère(s) d'évaluation :** Pourcentage de fumeur dans la population.
