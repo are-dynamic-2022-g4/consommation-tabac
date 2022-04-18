@@ -1,4 +1,4 @@
-# Consommation de tabac
+# <center>Consommation de tabac</center>
 
 ## Introduction
 
