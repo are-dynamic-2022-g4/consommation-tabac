@@ -33,9 +33,6 @@ On a pu observer que la publicité n'a que peu d'effets sur la consommation de t
 
 
 
-### Bibliographie :
-
-
 ### Lien vers page du  <a href="https://github.com/are-dynamic-2022-g4/consommation-tabac/blob/gh-pages/blog.md"> blog </a>
 
 
