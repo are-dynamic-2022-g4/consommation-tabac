@@ -28,6 +28,9 @@ Comparaison de l'évolution du nombre de fumeurs dans différentes conditions.
 
 
 ### Conclusion :
+Notre modèle ne reproduit pas totalement les prévisions faites par les experts car nous n'avons gardé qu'une seule génération de personnes, on a omis les naissances et les morts dans les simulations au cours du temps pour simplifier un peu et aussi par manque de temps, il a fallu se servir de notre propre opinion pour coder ce qui varie beaucoup plus dans la réalité.
+On a pu observer que la publicité n'a que peu d'effets sur la consommation de tabac car la plupart des gens sont mieux éduqués aux risques et c'est également ce qui a été découvert lors de notre recherche documentaire, mais l'entourage fumant, au contraire, est un facteur très puissant qui a un impact sur la consommation de tabac car l'être humain reproduit souvent ses semblables. Les campagnes de lutte anti-tabac a son effet même si elles ont ses limites car elles n'affecteront parfois jamais certaines persoNnes dans leur choix. 
+
 
 
 ### Bibliographie :
