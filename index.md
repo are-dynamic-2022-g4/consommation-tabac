@@ -1,6 +1,6 @@
 # <center> Consommation de tabac </center>
 
-## Introduction
+### Introduction
 
 Notre sujet de recherche documentaire porte sur le tabagisme et sa consommation en France parmi les jeunes adultes et les adolescents nos jours. En effet, la cigarette est devenue un effet de mode très populaire et omniprésent sur nos écrans.  En outre, l'addiction de la nicotine pousse les consommateurs à en redemander. Pourtant, de nombreuses mesures ont été menées contre cette industrie pour faire diminuer la consommation de tabac. Malgré cela, le marché du tabac a su établir des stratégies pour garder des consommateurs fidèles en ayant l'idée de cibler davantage les jeunes consommateurs. En effet, les jeunes consommateurs sont les plus à même de rester clients pour une plus longue période que les plus âgés. Il n’est pas aisé de faire tomber l’empire du tabac et leur économie car ils proposent toujours de nouveaux produits pour attirer de nouveaux clients. 
 
