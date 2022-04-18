@@ -21,7 +21,7 @@ Voici un exemple d'une population de 1000 personnes caractérisées par leur **�
 
 ![image](https://user-images.githubusercontent.com/96307633/163718816-50fa4b67-a2c3-4514-b322-81b7f3ec04bc.png)
 
-Nous allons suivre l'évolution de la consommation de tabac de cette population, influencée par leur intéraction avec leur proche, la lutte anti-tabac et la pub pro-tabac.
+Nous allons suivre l'évolution de la consommation de tabac de cette population, influencée par leur interaction avec leurs proches, la lutte anti-tabac et la pub pro-tabac.
 
 ### Simulations: 
 Comparaison de l'évolution du nombre de fumeurs dans différentes conditions.
