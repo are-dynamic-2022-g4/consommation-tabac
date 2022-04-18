@@ -18,3 +18,6 @@ On commence à implémenter la fonction qui définit une personne d'abord avec l
 ## Semaine 5
 On ajoute plus d'éléments qui feront varier le statut tabagique d'une personne au sein d'une population. 
 On a retravaillé le code sur les différents paramètres que nous avions établi pour notre simulation tels que la prise spontanée, la reprise ou rechute, le nombre de fois où la personne tente d'arrêter, la diffusion de la pub et celle des luttes anti-tabac qui varient selon les caractéristiques propres d'une personne. 
+
+## Semaine 6
+Pour la dernière semaine, on termine le code, on remet en page la page github pour préparer l'oral. On remet à jour certaines de nos fonctions et on se concentre sur les paramètres les plus pertinents selon nous pour la simulation de plusieurs paramètres en même temps ou en n'en prenant que certains en compte.
