@@ -21,6 +21,7 @@ Voici un exemple d'une population de 1000 personnes caractérisées par leur **�
 
 ![pop](https://user-images.githubusercontent.com/96307633/163718816-50fa4b67-a2c3-4514-b322-81b7f3ec04bc.png) 
 
+### Simulation: 
 
 Nous allons suivre l'évolution de la consommation de tabac de cette population, influencée par leur **interaction avec leurs proches, la lutte anti-tabac et la pub pro-tabac.**
 
@@ -36,7 +37,7 @@ Les personnes peuvent également se déplacer d'une petite distance
 ![simulation](https://user-images.githubusercontent.com/101204236/164010162-f33c9dc0-801c-442f-b68f-d91ac882a5f8.png)
 
 
-### Simulations : 
+### Résultats: 
 
 ***Influence des différents facteurs:***
 Afin de determiner les facteurs les plus influents dans la consommation de tabac, nous allons effectuer plusieurs simulations, en appliquant des facteurs différents à la même population de base.
@@ -53,7 +54,7 @@ Pour vérifier notre hypothèse on va maintenant exposé seulement les personnes
 
 exemple 
 
-### Conclusion : 
+### Conclusion: 
 Notre modèle ne reproduit pas totalement les prévisions faites par les experts car nous n'avons gardé qu'une seule génération de personnes, on a omis les naissances et les morts dans les simulations au cours du temps pour simplifier un peu et aussi par manque de temps, il a fallu se servir de notre propre opinion pour coder ce qui varie beaucoup plus dans la réalité.
 On a pu observer que la publicité n'a que peu d'effets sur la consommation de tabac car la plupart des gens sont mieux éduqués aux risques et c'est également ce qui a été découvert lors de notre recherche documentaire, mais l'entourage fumant, au contraire, est un facteur très puissant qui a un impact sur la consommation de tabac car l'être humain reproduit souvent ses semblables. Les campagnes de lutte anti-tabac a son effet même si elles ont ses limites car elles n'affecteront parfois jamais certaines personnes dans leur choix. 
 
