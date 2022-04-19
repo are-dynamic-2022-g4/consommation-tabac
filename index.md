@@ -32,8 +32,8 @@ Chaque année la population est affecté par 5 fonctions:
 ***Influence des différents facteurs:***
 Afin de determiner les facteurs les plus influants dans la consommation de tabac, nous allons effectuer plusieurs simulations, en appliquant des facteurs différents à la même population de base.
 
-**1ere condition** = Tout les facteurs (Publicité et intercations socials)
-**2eme condition** = Sans publicité / Avec interactions sociales
+**1ere condition** = Tout les facteurs (Publicité et intercations socials)  
+**2eme condition** = Sans publicité / Avec interactions sociales  
 **3eme condition** = Avec publicité / Sans interactions sociales
 
 exemple d'une simulation pour une population de 1000 personnes sur 10 ans:
