@@ -24,7 +24,7 @@ Voici un exemple d'une population de 1000 personnes caractérisées par leur **�
 
 Nous allons suivre l'évolution de la consommation de tabac de cette population, influencée par leur **interaction avec leurs proches, la lutte anti-tabac et la pub pro-tabac.**
 
-Chaque année la population est affecté par 5 fonctions:
+Chaque année la population est affectée par 5 fonctions:
  - l'interaction sociale  
  - la publicité pro-tabac  
  - la lutte anti tabac  
@@ -38,7 +38,7 @@ Les personnes peuvent également se déplacer d'une petite distance
 ### Simulations : 
 
 ***Influence des différents facteurs:***
-Afin de determiner les facteurs les plus influants dans la consommation de tabac, nous allons effectuer plusieurs simulations, en appliquant des facteurs différents à la même population de base.
+Afin de determiner les facteurs les plus influents dans la consommation de tabac, nous allons effectuer plusieurs simulations, en appliquant des facteurs différents à la même population de base.
 
 **1ere condition** = Tout les facteurs (Publicité et intercations socials)  
 **2eme condition** = Sans publicité / Avec interactions sociales  
@@ -48,6 +48,9 @@ exemple d'une simulation pour une population de 1000 personnes sur 10 ans:
 ![simulation](https://user-images.githubusercontent.com/96307633/163889437-6b5d552d-c552-4177-bd05-6b1cbe07d69d.png)
 
 ***Influence sur les différentes catégorie d'ages***
+Pour vérifier notre hypothèse on va maintenant exposé seulement les personnes de -30 ans à la publicité puis les personnes de +30 ans à la publicité
+
+exemple 
 
 ### Conclusion : 
 Notre modèle ne reproduit pas totalement les prévisions faites par les experts car nous n'avons gardé qu'une seule génération de personnes, on a omis les naissances et les morts dans les simulations au cours du temps pour simplifier un peu et aussi par manque de temps, il a fallu se servir de notre propre opinion pour coder ce qui varie beaucoup plus dans la réalité.
