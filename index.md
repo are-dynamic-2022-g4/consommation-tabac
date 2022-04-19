@@ -34,7 +34,11 @@ Chaque année la population est affectée par 5 fonctions:
 
 Les personnes peuvent également se déplacer d'une petite distance
 
-![simulation](https://user-images.githubusercontent.com/101204236/164010162-f33c9dc0-801c-442f-b68f-d91ac882a5f8.png)
+Exemple de l'évolution d'une population de 1000 personnes sur 10 ans:
+
+![simulation](https://user-images.githubusercontent.com/101204236/164014436-a36670f6-fba4-4ba3-97d5-f7513de7c4e3.png)
+![simulation courbe](https://user-images.githubusercontent.com/101204236/164014444-2adb416a-8084-4220-a89e-6e17871b9a64.png)
+
 
 
 ### Résultats : 
@@ -47,8 +51,7 @@ Afin de determiner les facteurs les plus influents dans la consommation de tabac
 **3eme condition** = Avec publicité / Sans interactions sociales
 
 exemple d'une simulation pour une population de 1000 personnes sur 10 ans:
-![simulation](https://user-images.githubusercontent.com/101204236/164013728-cbaceeac-f6dc-4cc0-af9f-b4c280c82763.png)  
-![simulation courbe](https://user-images.githubusercontent.com/101204236/164013789-ac736df1-0a3f-456d-a170-d0fce46f0a11.png)
+
 
 
 ***Influence sur les différentes catégorie d'ages***
