@@ -28,7 +28,7 @@ Nous allons suivre l'évolution de la consommation de tabac de cette population,
 
 Comparaison de l'évolution du nombre de fumeurs dans différentes conditions.
 
-
+exemple d'une simulation pour une population de 1000 personnes sur 10 ans
 ![simulation](https://user-images.githubusercontent.com/96307633/163889437-6b5d552d-c552-4177-bd05-6b1cbe07d69d.png)
 
 
