@@ -26,7 +26,7 @@ Nous allons suivre l'évolution de la consommation de tabac de cette population,
 
 ### Simulations : 
 
-** *Influence des différents facteurs:* **
+***Influence des différents facteurs:***
 Afin de determiner les facteurs les plus influants dans la consommation de tabac, nous allons effectuer plusieurs simulations, en appliquant des facteurs différents à la même population de base.
 
 **1ere condition** = Tout les facteurs (Publicité et intercations socials)
@@ -36,7 +36,7 @@ Afin de determiner les facteurs les plus influants dans la consommation de tabac
 exemple d'une simulation pour une population de 1000 personnes sur 10 ans
 ![simulation](https://user-images.githubusercontent.com/96307633/163889437-6b5d552d-c552-4177-bd05-6b1cbe07d69d.png)
 
-** *Influence sur les différentes catégorie d'ages* **
+***Influence sur les différentes catégorie d'ages***
 
 ### Conclusion : 
 Notre modèle ne reproduit pas totalement les prévisions faites par les experts car nous n'avons gardé qu'une seule génération de personnes, on a omis les naissances et les morts dans les simulations au cours du temps pour simplifier un peu et aussi par manque de temps, il a fallu se servir de notre propre opinion pour coder ce qui varie beaucoup plus dans la réalité.
