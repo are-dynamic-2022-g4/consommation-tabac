@@ -17,7 +17,11 @@ Se rapprocher d'une réalité qui est à l'échelle nationale pour déterminer l
 
 
 ### Création d'une population :
-Voici un exemple d'une population de 1000 personnes caractérisées par leur **âge, sexe, catégorie socio-professionnelle, état de santé** généré aléatoirement suivant les proportions en France en 2022:
+
+Chaque personne est caractérisées par leur **âge, sexe, catégorie socio-professionnelle, état de santé** et des coordonnées.  
+Les fumeurs sont représenté en rouge et les non-fumeurs en blanc.  
+
+Voici un exemple d'une population de 1000 personnes généré aléatoirement suivant les proportions en France en 2022:
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/96307633/163718816-50fa4b67-a2c3-4514-b322-81b7f3ec04bc.png" /> </p>
 
