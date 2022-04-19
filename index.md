@@ -47,20 +47,21 @@ Exemple de l'évolution d'une population de 1000 personnes sur 10 ans:
 ### Résultats : 
 
 ***Influence des différents facteurs:***
-Afin de determiner les facteurs les plus influents dans la consommation de tabac, nous allons effectuer plusieurs simulations, en appliquant des facteurs différents à la même population de base.
+Afin de determiner les facteurs les plus influents dans la consommation de tabac, nous allons effectuer plusieurs simulations, en appliquant des facteurs différents à la même population de base.  
+
+***Influence sur les différentes catégorie d'ages***
+Pour vérifier notre hypothèse on va maintenant exposé seulement les personnes de -30 ans à la publicité puis les personnes de +30 ans à la publicité
 
 **1ere condition** = Tout les facteurs (Publicité et intercations socials)  
 **2eme condition** = Sans publicité / Avec interactions sociales  
 **3eme condition** = Avec publicité / Sans interactions sociales
+**4eme condition** = Publicité uniquement sur les -30 ans  
+**5eme condition** = Publicité uniquement sur les +30 ans
 
 exemple d'une simulation pour une population de 1000 personnes sur 10 ans:
 <p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164015610-cb261953-7ae5-4660-bae8-dbfcda65799e.png" /> </p>  
 <p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164015641-d0c2cbbe-9204-45a3-866b-9c847a1e4d34.png" /> </p>  
 
-***Influence sur les différentes catégorie d'ages***
-Pour vérifier notre hypothèse on va maintenant exposé seulement les personnes de -30 ans à la publicité puis les personnes de +30 ans à la publicité
-
-exemple 
 
 
 ### Conclusion : 
