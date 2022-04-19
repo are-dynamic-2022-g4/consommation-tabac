@@ -33,8 +33,8 @@ Chaque année la population est affectée par 5 fonctions:
  - l'interaction sociale  
  - la publicité pro-tabac  
  - la lutte anti tabac  
- - debut spontanné  
- - arret spontanné  
+ - debut spontané  
+ - arret spontané  
 
 Les personnes peuvent également se déplacer d'une petite distance
 
