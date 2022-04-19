@@ -53,6 +53,8 @@ Afin de determiner les facteurs les plus influents dans la consommation de tabac
 
 exemple d'une simulation pour une population de 1000 personnes sur 10 ans:
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164015610-cb261953-7ae5-4660-bae8-dbfcda65799e.png" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164015641-d0c2cbbe-9204-45a3-866b-9c847a1e4d34.png" /> </p>
 
 
 ***Influence sur les différentes catégorie d'ages***
