@@ -47,12 +47,15 @@ Afin de determiner les facteurs les plus influents dans la consommation de tabac
 **3eme condition** = Avec publicité / Sans interactions sociales
 
 exemple d'une simulation pour une population de 1000 personnes sur 10 ans:
-![simulation](https://user-images.githubusercontent.com/96307633/163889437-6b5d552d-c552-4177-bd05-6b1cbe07d69d.png)
+![simulation](https://user-images.githubusercontent.com/101204236/164013728-cbaceeac-f6dc-4cc0-af9f-b4c280c82763.png)  
+![simulation courbe](https://user-images.githubusercontent.com/101204236/164013789-ac736df1-0a3f-456d-a170-d0fce46f0a11.png)
+
 
 ***Influence sur les différentes catégorie d'ages***
 Pour vérifier notre hypothèse on va maintenant exposé seulement les personnes de -30 ans à la publicité puis les personnes de +30 ans à la publicité
 
 exemple 
+
 
 ### Conclusion : 
 Notre modèle ne reproduit pas totalement les prévisions faites par les experts car nous n'avons gardé qu'une seule génération de personnes, on a omis les naissances et les morts dans les simulations au cours du temps pour simplifier un peu et aussi par manque de temps, il a fallu se servir de notre propre opinion pour coder ce qui varie beaucoup plus dans la réalité.
