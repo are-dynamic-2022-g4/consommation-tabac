@@ -25,8 +25,16 @@ Voici un exemple d'une population de 1000 personnes caractérisées par leur **�
 Nous allons suivre l'évolution de la consommation de tabac de cette population, influencée par leur **interaction avec leurs proches, la lutte anti-tabac et la pub pro-tabac.**
 
 Chaque année la population est affecté par 5 fonctions:
+ - l'interaction sociale  
+ - la publicité pro-tabac  
+ - la lutte anti tabac  
+ - debut spontanné  
+ - arret spontanné  
 
--mettre un exemple (pop de base, pop finale, courbe évolution 
+Les personnes peuvent également se déplacer d'une petite distance
+
+-mettre un exemple (pop de base, pop finale, courbe évolution)
+
 ### Simulations : 
 
 ***Influence des différents facteurs:***
