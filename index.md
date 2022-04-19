@@ -36,10 +36,8 @@ Les personnes peuvent également se déplacer d'une petite distance
 
 Exemple de l'évolution d'une population de 1000 personnes sur 10 ans:
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164014436-a36670f6-fba4-4ba3-97d5-f7513de7c4e3.png" /> </p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164014444-2adb416a-8084-4220-a89e-6e17871b9a64.png" /> </p>
-
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164016338-6c2ea728-77b2-491d-a12d-664de2f40200.png" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164016409-b52b1e86-f619-42fb-9e9b-c55dc43d6304.png" /> </p>
 
 
 ### Résultats : 
