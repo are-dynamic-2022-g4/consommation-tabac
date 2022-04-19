@@ -33,7 +33,8 @@ Chaque année la population est affectée par 5 fonctions:
 
 Les personnes peuvent également se déplacer d'une petite distance
 
--mettre un exemple (pop de base, pop finale, courbe évolution)
+![simulation](https://user-images.githubusercontent.com/101204236/164010162-f33c9dc0-801c-442f-b68f-d91ac882a5f8.png)
+
 
 ### Simulations : 
 
