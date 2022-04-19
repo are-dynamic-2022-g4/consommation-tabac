@@ -59,10 +59,9 @@ Pour vérifier notre hypothèse on va maintenant exposé seulement les personnes
 **5eme condition** = Publicité uniquement sur les +30 ans
 
 exemple d'une simulation pour une population de 1000 personnes sur 10 ans:
-<p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164015610-cb261953-7ae5-4660-bae8-dbfcda65799e.png" /> </p>  
-<p align="center"> <img src="https://user-images.githubusercontent.com/101204236/164015641-d0c2cbbe-9204-45a3-866b-9c847a1e4d34.png" /> </p>  
 
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/96233962/164025774-2583eb0b-1cb6-4393-9cc1-c40f778e4aca.png" /> </p>  
+<p align="center"> <img src="https://user-images.githubusercontent.com/96233962/164026080-16fec69f-5419-46c6-b2cd-e43aa5ed801d.png" /> </p>  
 
 ### Conclusion : 
 Notre modèle ne reproduit pas totalement les prévisions faites par les experts car nous n'avons gardé qu'une seule génération de personnes, on a omis les naissances et les morts dans les simulations au cours du temps pour simplifier un peu et aussi par manque de temps, il a fallu se servir de notre propre opinion pour coder ce qui varie beaucoup plus dans la réalité.
